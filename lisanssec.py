@@ -1,4 +1,4 @@
-#Lisans Seçici Prototip
+#Lisans Seçici Prototipi
 
 from rommenu import MenuSistemi
 
