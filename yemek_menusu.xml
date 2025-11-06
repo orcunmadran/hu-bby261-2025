@@ -1,0 +1,128 @@
+<haftalik_menu>
+    <gun ad="Pazartesi">
+        <yemek>
+            <ad>Mercimek Çorbası</ad>
+            <gorsel>yemek_menusu_gorseller/mercimek_corbasi.jpg</gorsel>
+        </yemek>
+        <yemek>
+            <ad>Ispanak Yemeği</ad>
+            <gorsel>yemek_menusu_gorseller/ispanak.jpg</gorsel>
+        </yemek>
+        <yemek>
+            <ad>Bulgur Pilavı</ad>
+            <gorsel>yemek_menusu_gorseller/bulgur_pilavi.jpg</gorsel>
+        </yemek>
+        <yemek>
+            <ad>Meyve Salatası</ad>
+            <gorsel>yemek_menusu_gorseller/meyve_salatasi.jpg</gorsel>
+        </yemek>
+    </gun>
+    <gun ad="Salı">
+        <yemek>
+            <ad>Tavuk Suyu Çorba</ad>
+            <gorsel>yemek_menusu_gorseller/tavuk_suyu_corba.jpg</gorsel>
+        </yemek>
+        <yemek>
+            <ad>Fırında Tavuk</ad>
+            <gorsel>yemek_menusu_gorseller/firinda_tavuk.jpg</gorsel>
+        </yemek>
+        <yemek>
+            <ad>Pirinç Pilavı</ad>
+            <gorsel>yemek_menusu_gorseller/pirinc_pilavi.jpg</gorsel>
+        </yemek>
+        <yemek>
+            <ad>Salata</ad>
+            <gorsel>yemek_menusu_gorseller/salata.jpg</gorsel>
+        </yemek>
+    </gun>
+    <gun ad="Çarşamba">
+        <yemek>
+            <ad>Ezogelin Çorbası</ad>
+            <gorsel>yemek_menusu_gorseller/ezogelin_corbasi.jpg</gorsel>
+        </yemek>
+        <yemek>
+            <ad>Taze Fasulye</ad>
+            <gorsel>yemek_menusu_gorseller/taze_fasulye.jpg</gorsel>
+        </yemek>
+        <yemek>
+            <ad>Makarna</ad>
+            <gorsel>yemek_menusu_gorseller/makarna.jpg</gorsel>
+        </yemek>
+        <yemek>
+            <ad>Yoğurt</ad>
+            <gorsel>yemek_menusu_gorseller/yogurt.jpg</gorsel>
+        </yemek>
+    </gun>
+    <gun ad="Perşembe">
+        <yemek>
+            <ad>Domates Çorbası</ad>
+            <gorsel>yemek_menusu_gorseller/domates_corbasi.jpg</gorsel>
+        </yemek>
+        <yemek>
+            <ad>Köfte ve Patates</ad>
+            <gorsel>yemek_menusu_gorseller/kofte_patates.jpg</gorsel>
+        </yemek>
+        <yemek>
+            <ad>Şehriye Pilavı</ad>
+            <gorsel>yemek_menusu_gorseller/sehriye_pilavi.jpg</gorsel>
+        </yemek>
+        <yemek>
+            <ad>Cacık</ad>
+            <gorsel>yemek_menusu_gorseller/cacik.jpg</gorsel>
+        </yemek>
+    </gun>
+    <gun ad="Cuma">
+        <yemek>
+            <ad>Yayla Çorbası</ad>
+            <gorsel>yemek_menusu_gorseller/yayla_corbasi.jpg</gorsel>
+        </yemek>
+        <yemek>
+            <ad>Balık</ad>
+            <gorsel>yemek_menusu_gorseller/balik.jpg</gorsel>
+        </yemek>
+        <yemek>
+            <ad>Roka Salatası</ad>
+            <gorsel>yemek_menusu_gorseller/roka_salatasi.jpg</gorsel>
+        </yemek>
+        <yemek>
+            <ad>İrmik Helvası</ad>
+            <gorsel>yemek_menusu_gorseller/irmik_helvasi.jpg</gorsel>
+        </yemek>
+    </gun>
+    <gun ad="Cumartesi">
+        <yemek>
+            <ad>Mantar Çorbası</ad>
+            <gorsel>yemek_menusu_gorseller/mantar_corbasi.jpg</gorsel>
+        </yemek>
+        <yemek>
+            <ad>Karnıyarık</ad>
+            <gorsel>yemek_menusu_gorseller/karniyarik.jpg</gorsel>
+        </yemek>
+        <yemek>
+            <ad>Pirinç Pilavı</ad>
+            <gorsel>yemek_menusu_gorseller/pirinc_pilavi.jpg</gorsel>
+        </yemek>
+        <yemek>
+            <ad>Komposto</ad>
+            <gorsel>yemek_menusu_gorseller/komposto.jpg</gorsel>
+        </yemek>
+    </gun>
+    <gun ad="Pazar">
+        <yemek>
+            <ad>Brokoli Çorbası</ad>
+            <gorsel>yemek_menusu_gorseller/brokoli_corbasi.jpg</gorsel>
+        </yemek>
+        <yemek>
+            <ad>Orman Kebabı</ad>
+            <gorsel>yemek_menusu_gorseller/orman_kebabi.jpg</gorsel>
+        </yemek>
+        <yemek>
+            <ad>Erişte</ad>
+            <gorsel>yemek_menusu_gorseller/eriste.jpg</gorsel>
+        </yemek>
+        <yemek>
+            <ad>Sütlaç</ad>
+            <gorsel>yemek_menusu_gorseller/sutlac.jpg</gorsel>
+        </yemek>
+    </gun>
+</haftalik_menu>
